@@ -1,0 +1,16 @@
+{
+  "email": {
+    "address": "your_email@gmail.com",
+    "password": "your_password",
+    "smtp": "smtp.gmail.com"
+  },
+  "amazon": {
+    "url": "https://www.amazon.in/Casio-Enticer-Analog-Turquoise-MTP-1302PD-2A2VEF/dp/B0BRPD1FTX/",
+    "target_price": 3000
+  },
+  "web_form": {
+    "url": "https://example.com/jobportal",
+    "username": "demo_user",
+    "password": "demo_pass"
+  }
+}
