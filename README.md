@@ -1,23 +1,4 @@
-## Final Repo Structure
-automation-suite/
-│── README.md              # Root README (covers both projects)
-│── requirements.txt       # Dependencies
-│── config.json            # Credentials + settings
-│
-├── amazon_tracker/
-│   ├── tracker.py
-│   └── README.md
-│
-├── web_form_automation/
-│   ├── form_bot.py
-│   └── README.md
-│
-└── utils/
-    ├── emailer.py
-    ├── logger.py
-    └── __init__.py
 
-📄 Root README.md
 # Automation Suite 🚀
 
 A modular automation suite built with **Python, Selenium, and BeautifulSoup**.  
